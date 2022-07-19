@@ -7,3 +7,5 @@ This are some basic python projects
 5. Generate Password with Python
 6. Play Rock, Paper, and Scissors with Python
 7. Dice Roll Simulator
+8. QR Code Generator
+9. Animal Quiz Game
