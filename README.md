@@ -1,5 +1,5 @@
-# Python-Basic-Projects done by me-
-These are some basic python projects implemented by me while revising Python:
+
+These are some python projects implemented by me while revising Python:
 1. Create Acronyms using Python
 2. Alarm Clock with Python
 3. Email Slicer with Python
